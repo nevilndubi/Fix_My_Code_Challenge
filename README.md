@@ -11,7 +11,7 @@ with, others of which I was not. The specific list of projects contained follows
 * [0x00. Fix my code](./0x00-challenge)
 
 ## Author🖊️:
-* **[Nevil Ndubi](https://twitter.com/nevil_ndubi)** <[Aysuarex](https://github.com/nevilndubi)>
+* **[Nevil Ndubi](https://twitter.com/nevil_ndubi)** <[nevilndubi](https://github.com/nevilndubi)>
 
 ## Acknowledgements :pray:
 
